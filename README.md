@@ -13,6 +13,8 @@
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="8" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-line.svg" height="30" alt="blazor logo" />
+  <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="30" alt="python logo" />
