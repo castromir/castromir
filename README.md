@@ -13,8 +13,6 @@
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="8" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Blazor.png" height="30" alt="blazor logo" />
-  <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -27,9 +25,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=castromir&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castromir&layout=donut&theme=transparent)
 <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abrxu/castromir/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abrxu/castromir/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/castromir/castromir/output/github-contribution-grid-snake.svg">
-</picture>
